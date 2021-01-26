@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Pizzeria\Pizzeria\bin\Debug\Pizzeria.exe.config
+C:\Users\Admin\Desktop\Pizzeria\Pizzeria\bin\Debug\Pizzeria.exe
+C:\Users\Admin\Desktop\Pizzeria\Pizzeria\bin\Debug\Pizzeria.pdb
+C:\Users\Admin\Desktop\Pizzeria\Pizzeria\obj\Debug\Pizzeria.Form1.resources
+C:\Users\Admin\Desktop\Pizzeria\Pizzeria\obj\Debug\Pizzeria.Properties.Resources.resources
+C:\Users\Admin\Desktop\Pizzeria\Pizzeria\obj\Debug\Pizzeria.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Pizzeria\Pizzeria\obj\Debug\Pizzeria.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Pizzeria\Pizzeria\obj\Debug\Pizzeria.exe
+C:\Users\Admin\Desktop\Pizzeria\Pizzeria\obj\Debug\Pizzeria.pdb
+C:\Users\Admin\Desktop\Pizzeria\Pizzeria\obj\Debug\Pizzeria.Controls.ProductCard.resources
+C:\Users\Admin\Desktop\Pizzeria\Pizzeria\obj\Debug\Pizzeria.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Pizzeria\Pizzeria\obj\Debug\Pizzeria.Forms.OrderForm.resources
+C:\Users\Admin\Desktop\Pizzeria\Pizzeria\obj\Debug\Pizzeria.Forms.CheckForm.resources
